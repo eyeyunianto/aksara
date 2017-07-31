@@ -1,7 +1,7 @@
 {
   "main": "app.html",
   "name": "iRohul",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "app-id": "com.iRohul",
   "chromium-args": "--disable-setuid-sandbox",
   "window": {
