@@ -6,6 +6,9 @@
 		"ridmi":"http://ridmi.co/faq.html",
 		"ijateng":"http://ijateng.aksaramaya.id/faq.html",
 		"ijakarta":"https://ijakarta.id/en/faq.html",
+		"itoraya":"https://itoraya.id/en/faq.html",
+		"itorut":"https://itorut.id/en/faq.html",
+		"ibalikpapan":"https://ibalikpapan.id/en/faq.html",
 		"ipusnas":"http://ipusnas.id/en/faq.html"
 	},
 	"id":{
@@ -15,6 +18,9 @@
 		"ridmi":"http://45.32.107.165/faq.html",
 		"ijateng":"http://ijateng.aksaramaya.id/faq.html",
 		"ijakarta":"https://ijakarta.id/faq.html",
+		"itoraya":"https://itoraya.id/faq.html",
+		"itorut":"https://itorut.id/faq.html",
+		"ibalikpapan":"https://ibalikpapan.id/faq.html",
 		"ipusnas":"http://ipusnas.id/faq.html"
 	}
 }
