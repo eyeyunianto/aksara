@@ -6,9 +6,9 @@
 		"ridmi":"http://ridmi.co/howto.html",
 		"ijateng":"http://ijateng.aksaramaya.id/howto/index.html",
 		"ijakarta":"https://ijakarta.id/en/howto.html",
-		"itoraya":"https://itorayamaelo.id/en/howto.html",
-		"itorut":"https://itorut.id/en/howto.html",
-		"ibalikpapan":"https://ibalikpapan.id/en/howto.html",
+		"itoraya":"http://itorayamaelo.id/en/howto.html",
+		"itorut":"http://itorut.id/en/howto.html",
+		"ibalikpapan":"http://ibalikpapan.id/en/howto.html",
 		"ipusnas":"http://ipusnas.id/en/howto.html"
 	},
 	"id":{
@@ -18,9 +18,9 @@
 		"ridmi":"http://ridmi.co/howto.html",
 		"ijateng":"http://ijateng.aksaramaya.id/howto/index.html",
 		"ijakarta":"https://ijakarta.id/howto.html",
-		"itoraya":"https://itorayamaelo.id/howto.html",
-		"itorut":"https://itorut.id/howto.html",
-		"ibalikpapan":"https://ibalikpapan.id/howto.html",
+		"itoraya":"http://itorayamaelo.id/howto.html",
+		"itorut":"http://itorut.id/howto.html",
+		"ibalikpapan":"http://ibalikpapan.id/howto.html",
 		"ipusnas":"http://ipusnas.id/howto.html"
 	}
 }
