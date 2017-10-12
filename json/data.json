@@ -1,0 +1,1266 @@
+{
+    "meta": {
+        "code": 200,
+        "confirm": "sukses"
+    },
+    "data": {
+        "num_pages": 998,
+        "current_page": "4",
+        "current_page_result": "10",
+        "limit": "10",
+        "offset": 30,
+        "data": [
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "News",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "NEWS",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "News": {
+                        "title": "Pastikan Semua Personel “On Call”",
+                        "ht:approx_traffic": null,
+                        "description": "Semarang – Memasuki musim peralihan, masyarakat diminta terus waspada terhadap kemungkinan terjadinya bencana. Tanda-tanda bakal terjadinya bencana hingga upaya penyelamatan yang dilakukan, mesti dimengerti, khususnya warga yang tinggal di wilayah rawan bencana. Gubernur Jawa Tengah H Ganjar Pranowo SH MIP menyampaikan, kondisi cuaca tak menentu yang terjadi beberapa waktu terakhir ini hendaknya diwaspadai. Dia menginstruksikan [&#8230;]",
+                        "description_detail": "Semarang – Memasuki musim peralihan, masyarakat diminta terus waspada terhadap kemungkinan terjadinya bencana. Tanda-tanda bakal terjadinya bencana hingga upaya penyelamatan yang dilakukan, mesti dimengerti, khususnya warga yang tinggal di wilayah rawan bencana. Gubernur Jawa Tengah H Ganjar Pranowo SH MIP menyampaikan, kondisi cuaca tak menentu yang terjadi beberapa waktu terakhir ini hendaknya diwaspadai. Dia menginstruksikan [&#8230;]",
+                        "pubDate": "Wed, 11 Oct 2017 01:18:52 +0000",
+                        "link": "https://jatengprov.go.id/berita-utama/pastikan-semua-personel-on-call/",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "https://jatengprov.go.id/?p=13079",
+                        "author": "Prov Jateng"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "News",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "NEWS",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "News": {
+                        "title": "Ganjar Apresiasi Pengembangan Trensains",
+                        "ht:approx_traffic": null,
+                        "description": "Semarang – Gubernur Jawa Tengah H Ganjar Pranowo SH MIP memberikan aspirasinya terhadap metode belajar yang memadukan kajian ilmu pengetahuan (sains) modern dengan ayat-ayat Al Quran dan Hadits yang diberi nama Pesantren Sains atau Trensains. Menurutnya inovasi dalam bidang pendidikan itu akan menciptakan SDM yang berkualitas tidak hanya dari segi akhlak, namun juga dari segi [&#8230;]",
+                        "description_detail": "Semarang – Gubernur Jawa Tengah H Ganjar Pranowo SH MIP memberikan aspirasinya terhadap metode belajar yang memadukan kajian ilmu pengetahuan (sains) modern dengan ayat-ayat Al Quran dan Hadits yang diberi nama Pesantren Sains atau Trensains. Menurutnya inovasi dalam bidang pendidikan itu akan menciptakan SDM yang berkualitas tidak hanya dari segi akhlak, namun juga dari segi [&#8230;]",
+                        "pubDate": "Wed, 11 Oct 2017 00:58:24 +0000",
+                        "link": "https://jatengprov.go.id/berita-utama/ganjar-apresiasi-pengembangan-trensains/",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "https://jatengprov.go.id/?p=13077",
+                        "author": "Prov Jateng"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Live GUBERNUR JATENG MENERIMA KUNJUNGAN DUBES KUWAIT, 10/10/2017 #JatengGayeng #GayengBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-10-10T11:01:18+00:00",
+                        "link": "https://www.youtube.com/watch?v=RlZffI9ouXU",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:RlZffI9ouXU",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "News",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "NEWS",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "News": {
+                        "title": "Atlet Perlu Pahami Politik Olahraga",
+                        "ht:approx_traffic": null,
+                        "description": "Semarang &#8211; Semangat yang bergelora merupakan salah satu modal yang wajib dimiliki oleh para atlet sebelum bertanding memperebutkan gelar juara. Semangat itu yang membuat mereka antusias berlatih demi mengukir prestasi. &#8220;Prestasi bisa dicapai kalau kita punya semangat. Semangat wajib ada, setelah itu baru punya keterampilan, kemudian mengerti politik yang kita mainkan di dalam olahraga ini,&#8221; [&#8230;]",
+                        "description_detail": "Semarang &#8211; Semangat yang bergelora merupakan salah satu modal yang wajib dimiliki oleh para atlet sebelum bertanding memperebutkan gelar juara. Semangat itu yang membuat mereka antusias berlatih demi mengukir prestasi. &#8220;Prestasi bisa dicapai kalau kita punya semangat. Semangat wajib ada, setelah itu baru punya keterampilan, kemudian mengerti politik yang kita mainkan di dalam olahraga ini,&#8221; [&#8230;]",
+                        "pubDate": "Tue, 10 Oct 2017 14:04:42 +0000",
+                        "link": "https://jatengprov.go.id/berita-utama/atlet-perlu-pahami-politik-olahraga/",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "https://jatengprov.go.id/?p=13075",
+                        "author": "Prov Jateng"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Live MAS GANJAR MENYAPA Pro Kontra Transportasi Online 10/10/2017  #JatengGayeng #GayengBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-10-10T11:00:26+00:00",
+                        "link": "https://www.youtube.com/watch?v=m1bZC2N8A4U",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:m1bZC2N8A4U",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "News",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "NEWS",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "News": {
+                        "title": "Kader PKK Jangan Hanya Jadi Seksi Konsumsi",
+                        "ht:approx_traffic": null,
+                        "description": "Semarang – Kader Pemberdayaan dan Kesejahteraan Keluarga (PKK) diminta lebih berani menyuarakan aspirasi dan kebutuhan masyarakat dalam proses perencanaan anggaran. Termasuk, dalam perencanaan dana desa. Kepala Bidang Pemberdayaan Masyarakat Desa pada Dinas Pemberdayaan Masyarakat Desa, Kependudukan dan Catatan Sipil (Dispermadesdukcapil) Provinsi Jawa Tengah Nadi Santoso SP MSi membeberkan, prioritas penggunaan dana desa tidak hanya untuk [&#8230;]",
+                        "description_detail": "Semarang – Kader Pemberdayaan dan Kesejahteraan Keluarga (PKK) diminta lebih berani menyuarakan aspirasi dan kebutuhan masyarakat dalam proses perencanaan anggaran. Termasuk, dalam perencanaan dana desa. Kepala Bidang Pemberdayaan Masyarakat Desa pada Dinas Pemberdayaan Masyarakat Desa, Kependudukan dan Catatan Sipil (Dispermadesdukcapil) Provinsi Jawa Tengah Nadi Santoso SP MSi membeberkan, prioritas penggunaan dana desa tidak hanya untuk [&#8230;]",
+                        "pubDate": "Tue, 10 Oct 2017 10:43:31 +0000",
+                        "link": "https://jatengprov.go.id/berita-utama/kader-pkk-jangan-hanya-jadi-seksi-konsumsi/",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "https://jatengprov.go.id/?p=13063",
+                        "author": "Prov Jateng"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "News",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "NEWS",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "News": {
+                        "title": "Kuwait Tertarik Produk Kelautan dan Perkapalan Indonesia",
+                        "ht:approx_traffic": null,
+                        "description": "Semarang &#8211; Duta Besar Kuwait untuk Indonesia, Abdulwahab Abdullah Al-Sager tertarik dengan produk kelautan dan perkapalan Indonesia, khususnya di Provinsi Jawa Tengah. Ketertarikan itu disampaikan ketika Abdulwahab bertemu dengan Gubernur Jawa Tengah H Ganjar Pranowo SH MIP, di Ruang Kerja Gubernur, Selasa (10/10). Menurutnya, jika ada perusahaan yang membuat produk yang berhubungan dengan kelautan, seperti perahu [&#8230;]",
+                        "description_detail": "Semarang &#8211; Duta Besar Kuwait untuk Indonesia, Abdulwahab Abdullah Al-Sager tertarik dengan produk kelautan dan perkapalan Indonesia, khususnya di Provinsi Jawa Tengah. Ketertarikan itu disampaikan ketika Abdulwahab bertemu dengan Gubernur Jawa Tengah H Ganjar Pranowo SH MIP, di Ruang Kerja Gubernur, Selasa (10/10). Menurutnya, jika ada perusahaan yang membuat produk yang berhubungan dengan kelautan, seperti perahu [&#8230;]",
+                        "pubDate": "Tue, 10 Oct 2017 10:00:18 +0000",
+                        "link": "https://jatengprov.go.id/berita-utama/kuwait-tertarik-produk-kelautan-dan-perkapalan-indonesia/",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "https://jatengprov.go.id/?p=13056",
+                        "author": "Prov Jateng"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Live MAS GANJAR MENYAPA Menjaga Batik Warisan Dunia  #JatengGayeng #GayengBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-10-04T21:42:45+00:00",
+                        "link": "https://www.youtube.com/watch?v=jP1dnV4dHmI",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:jP1dnV4dHmI",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Sarasehan Pengembangan Agribisnis Pertanian Terpadu  #JatengGayeng #GayengBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-10-04T21:41:49+00:00",
+                        "link": "https://www.youtube.com/watch?v=dWFX4wbehSc",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:dWFX4wbehSc",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "News",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "NEWS",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "News": {
+                        "title": "Ganjar Gagas Percontohan Korporasi Petani Per Kabupaten/ Kota",
+                        "ht:approx_traffic": null,
+                        "description": "Semarang – Petani terus didorong lebih kreatif meningkatkan nilai jual produk pertaniannya. Salah satunya dengan mengolah produk agar memiliki harga jual tinggi di pasaran. Hal tersebut disampaikan Gubernur Jawa Tengah H Ganjar Pranowo SH MIP pada Temu Kangen Penyuluh Pertanian Jawa Tengah di Patra Convention Hotel, Selasa (10/10). Menurutnya, menyejahterakan petani tidak bisa dilakukan dengan [&#8230;]",
+                        "description_detail": "Semarang – Petani terus didorong lebih kreatif meningkatkan nilai jual produk pertaniannya. Salah satunya dengan mengolah produk agar memiliki harga jual tinggi di pasaran. Hal tersebut disampaikan Gubernur Jawa Tengah H Ganjar Pranowo SH MIP pada Temu Kangen Penyuluh Pertanian Jawa Tengah di Patra Convention Hotel, Selasa (10/10). Menurutnya, menyejahterakan petani tidak bisa dilakukan dengan [&#8230;]",
+                        "pubDate": "Tue, 10 Oct 2017 09:45:25 +0000",
+                        "link": "https://jatengprov.go.id/berita-utama/ganjar-gagas-percontohan-korporasi-petani-per-kabupaten-kota/",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "https://jatengprov.go.id/?p=13047",
+                        "author": "Prov Jateng"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Gubernur Jawa Tengah Meninjau Sentra Tahu Desa Kalisari #JatengGayeng #GayengBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-10-02T06:48:40+00:00",
+                        "link": "https://www.youtube.com/watch?v=kJdpMqilR1c",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:kJdpMqilR1c",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "News",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "NEWS",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "News": {
+                        "title": "“Online” itu Peradaban, Tidak Bisa Dihindari",
+                        "ht:approx_traffic": null,
+                        "description": "Semarang &#8211; Kemunculan taksi online di berbagai daerah tidak bisa dihindari. Sebab, perubahan peradaban zaman dan teknologi menyediakan kemudahan masyarakat menggunakan transportasi umum. Namun semua kendaraan pengangkut manusia dan melintas di wilayah umum harus diatur, termasuk taksi online berpelat hitam.  &#8220;Online itu peradaban dan eranya tidak mungkin dipungkiri pemesanan kendaraan secara online. Online itu memberikan [&#8230;]",
+                        "description_detail": "Semarang &#8211; Kemunculan taksi online di berbagai daerah tidak bisa dihindari. Sebab, perubahan peradaban zaman dan teknologi menyediakan kemudahan masyarakat menggunakan transportasi umum. Namun semua kendaraan pengangkut manusia dan melintas di wilayah umum harus diatur, termasuk taksi online berpelat hitam.  &#8220;Online itu peradaban dan eranya tidak mungkin dipungkiri pemesanan kendaraan secara online. Online itu memberikan [&#8230;]",
+                        "pubDate": "Tue, 10 Oct 2017 05:56:21 +0000",
+                        "link": "https://jatengprov.go.id/berita-utama/online-itu-peradaban-tidak-bisa-dihindari/",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "https://jatengprov.go.id/?p=13038",
+                        "author": "Prov Jateng"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "PEMBUKAAN RAKORDA PAPDESI SE-JATENG #JatengGayeng #GayengBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-10-02T06:47:48+00:00",
+                        "link": "https://www.youtube.com/watch?v=SrgPUebYMmo",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:SrgPUebYMmo",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "News",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "NEWS",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "News": {
+                        "title": "Peningkatan Jumlah Investasi Saja Tak Cukup",
+                        "ht:approx_traffic": null,
+                        "description": "Semarang &#8211; Selama lima tahun terakhir ini, investasi di Jawa Tengah memang mengalami pertumbuhan positif. Rata-rata pertumbuhan per tahun 52,31 persen. Bahkan, pada semester pertama tahun ini, total realisasi mencapai Rp 20,44 triliun atau meningkat 65,64 persen dari periode yang sama tahun lalu, yang hanya Rp 12,34 triliun. Meski pertumbuhan investasi di Jawa Tengah cukup [&#8230;]",
+                        "description_detail": "Semarang &#8211; Selama lima tahun terakhir ini, investasi di Jawa Tengah memang mengalami pertumbuhan positif. Rata-rata pertumbuhan per tahun 52,31 persen. Bahkan, pada semester pertama tahun ini, total realisasi mencapai Rp 20,44 triliun atau meningkat 65,64 persen dari periode yang sama tahun lalu, yang hanya Rp 12,34 triliun. Meski pertumbuhan investasi di Jawa Tengah cukup [&#8230;]",
+                        "pubDate": "Tue, 10 Oct 2017 05:41:47 +0000",
+                        "link": "https://jatengprov.go.id/berita-utama/peningkatan-jumlah-investasi-saja-tak-cukup/",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "https://jatengprov.go.id/?p=13036",
+                        "author": "Prov Jateng"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Melepas Pawai Hati Batik di Kab Banyumas #JatengGayeng #GayengBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-10-02T06:47:10+00:00",
+                        "link": "https://www.youtube.com/watch?v=-vR-RVohI0o",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:-vR-RVohI0o",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "News",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "NEWS",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "News": {
+                        "title": "Presiden Targetkan Bandara A Yani Rampung 2018",
+                        "ht:approx_traffic": null,
+                        "description": "Semarang &#8211; Presiden RI Ir H Joko Widodo mendorong pengembangan Bandara A Yani  yang saat ini tengah berjalan, bisa selesai pada pertengahan 2018. Namun, pihaknya memberi toleransi paling lambat seluruh pengerjaan bisa rampung pada akhir 2018. Pernyataan itu disampaikan Presiden Joko Widodo menanggapi pertanyaan sejumlah wartawan, di sela-sela kunjungan kerjanya di Kota Semarang, Senin (9/10). [&#8230;]",
+                        "description_detail": "Semarang &#8211; Presiden RI Ir H Joko Widodo mendorong pengembangan Bandara A Yani  yang saat ini tengah berjalan, bisa selesai pada pertengahan 2018. Namun, pihaknya memberi toleransi paling lambat seluruh pengerjaan bisa rampung pada akhir 2018. Pernyataan itu disampaikan Presiden Joko Widodo menanggapi pertanyaan sejumlah wartawan, di sela-sela kunjungan kerjanya di Kota Semarang, Senin (9/10). [&#8230;]",
+                        "pubDate": "Tue, 10 Oct 2017 03:43:08 +0000",
+                        "link": "https://jatengprov.go.id/berita-utama/presiden-targetkan-bandara-a-yani-rampung-2018/",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "https://jatengprov.go.id/?p=13034",
+                        "author": "Prov Jateng"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "GUBERNUR MENGAJAR SMAN 1 SOKARAJA KAB.BANYUMAS #JatengGayeng #GayengBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-10-02T06:45:05+00:00",
+                        "link": "https://www.youtube.com/watch?v=kyUg1x21V90",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:kyUg1x21V90",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "GUBERNUR MENGAJAR SMAN 1 SOKARAJA KAB.BANYUMAS #JatengGayeng #GayengBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-10-02T06:44:27+00:00",
+                        "link": "https://www.youtube.com/watch?v=ZJncdFjPbC4",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:ZJncdFjPbC4",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Kunjungan Gubernur Jateng di PonPes Al-Falah Kab.Banyumas #JatengGayeng #GayengBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-10-02T06:43:29+00:00",
+                        "link": "https://www.youtube.com/watch?v=qqO49cO3opE",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:qqO49cO3opE",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Pembukaan Acara Gebyar Seni Budaya WIPPAS 2017 Oleh Ganjar Pranowo  #JatengGayeng #NgopiBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-09-28T07:14:57+00:00",
+                        "link": "https://www.youtube.com/watch?v=Ede1UgKIl2w",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:Ede1UgKIl2w",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "News",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "NEWS",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "News": {
+                        "title": "Anget Boleh, Tapi Jangan Panas",
+                        "ht:approx_traffic": null,
+                        "description": "Semarang &#8211; Dalam setiap kontestasi politik atau menjelang pelaksanaan pemilihan kepala daerah di Indonesia suhu politik selalu naik. Karenanya semua pihak, terutama Polri harus meningkatkan stabilitas keamanan, meluruskan isu-isu yang memanaskan situasi, serta segera menangani beragam konflik sosial sekecil apapun. &#8220;Tugas kita adalah bagaimana mengendalikan agar situasi-situasi tidak berubah menjadi panas. Naik boleh tapi sedikit. [&#8230;]",
+                        "description_detail": "Semarang &#8211; Dalam setiap kontestasi politik atau menjelang pelaksanaan pemilihan kepala daerah di Indonesia suhu politik selalu naik. Karenanya semua pihak, terutama Polri harus meningkatkan stabilitas keamanan, meluruskan isu-isu yang memanaskan situasi, serta segera menangani beragam konflik sosial sekecil apapun. &#8220;Tugas kita adalah bagaimana mengendalikan agar situasi-situasi tidak berubah menjadi panas. Naik boleh tapi sedikit. [&#8230;]",
+                        "pubDate": "Mon, 09 Oct 2017 10:12:30 +0000",
+                        "link": "https://jatengprov.go.id/berita-utama/anget-boleh-tapi-jangan-panas/",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "https://jatengprov.go.id/?p=13018",
+                        "author": "Prov Jateng"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Sambutan Gubernur  di Pertemuan Kades Se-Kabupaten Pemalang  #JatengGayeng #NgopiBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-09-28T07:14:15+00:00",
+                        "link": "https://www.youtube.com/watch?v=Ro7XstvFxgg",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:Ro7XstvFxgg",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Ngopi Bareng Mas Ganjar di Desa Pulosari Kab. Pemalang  #JatengGayeng #NgopiBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-09-28T03:39:28+00:00",
+                        "link": "https://www.youtube.com/watch?v=CnCyLy4oy3o",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:CnCyLy4oy3o",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Sambutan Gubernur  di Pertemuan Kades Se-Kabupaten Pemalang  #JatengGayeng #NgopiBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-09-27T09:17:49+00:00",
+                        "link": "https://www.youtube.com/watch?v=3ILbFcnVB0w",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:3ILbFcnVB0w",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            },
+            {
+                "Feed": {
+                    "sender_key": "User",
+                    "object_type": "Video",
+                    "modified": "2017-10-11 13:30:52",
+                    "recipient_key": "0",
+                    "recipient_type": "User",
+                    "message": "Berita baru",
+                    "id": "1425614",
+                    "created": "2017-10-11 13:30:52",
+                    "sender_type": "Library",
+                    "elapsed_time": "12 minutes, 38896 microseconds ago",
+                    "action_type": "VIDEO",
+                    "object_key": "7",
+                    "creator_code": "0"
+                },
+                "Object": {
+                    "Video": {
+                        "title": "Gubernur Mengajar di SMK Negeri 1 Pemalang | 27 September2017 #JatengGayeng #NgopiBarengGanjar",
+                        "ht:approx_traffic": null,
+                        "description": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "description_detail": "Siaran percobaan Jateng Gayeng TV | http://stream.jatengprov.go.id | Sampaikan aduan masyarakat Jawa Tengah via http://laporgub.jatengprov.go.id atau via Twitter dengan hashtag #kemalajateng | follow akun Twitter @provjateng dan Instagram @provjateng",
+                        "pubDate": "2017-09-27T09:02:53+00:00",
+                        "link": "https://www.youtube.com/watch?v=n6O5aBoDdDg",
+                        "ht:picture": null,
+                        "ht:picture_source": null,
+                        "ht:news_item": null,
+                        "id": "yt:video:n6O5aBoDdDg",
+                        "author": "Pemerintah Provinsi Jawa Tengah"
+                    },
+                    "Statistic": {
+                        "total_click": 13333
+                    }
+                },
+                "Statistics": {
+                    "has_like": 0,
+                    "has_report": 0,
+                    "total_likes": 0,
+                    "total_comments": 0,
+                    "total_reports": 0
+                },
+                "Sender": {
+                    "Library": {
+                        "id": "55",
+                        "name": "Dinas Kearsipan dan Perpustakaan Prov Jateng",
+                        "status_follow": "false",
+                        "logo": "http://static.ijakarta.id/img/libraries/logo/6d75f2bdf61089270deec05546bde6d8.jpg"
+                    }
+                }
+            }
+        ]
+    },
+    "total_result": 9972
+}
