@@ -19,7 +19,10 @@
 		"ibilib":"http://ibilibrary.id/en/howto.html",
 		"itanjungpinang":"http://itanjungpinang.id/en/howto.html",
 		"ihss":"http://ihss.id/en/howto.html",
-		"ikisaran":"http://ikisaran.id/en/howto.html"
+		"ikisaran":"http://ikisaran.id/en/howto.html",
+		"imagelang":"http://imagelang.id/en/howto.html",
+		"enrekang":"http://enrekang.id/en/howto.html",
+		"idemak":"http://idemak.id/en/howto.html"
 	},
 	"id":{
 		"irohul":"http://irohul.id/en/howto.html",
@@ -41,6 +44,9 @@
 		"ibilib":"http://ibilibrary.id/howto.html",
 		"itanjungpinang":"http://itanjungpinang.id/howto.html",
 		"ihss":"http://ihss.id/howto.html",
-		"ikisaran":"http://ikisaran.id/howto.html"
+		"ikisaran":"http://ikisaran.id/howto.html",
+		"imagelang":"http://imagelang.id/howto.html",
+		"enrekang":"http://enrekang.id/howto.html",
+		"idemak":"http://idemak.id/howto.html"
 	}
 }
