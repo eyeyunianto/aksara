@@ -21,8 +21,9 @@
 		"ihss":"http://ihss.id/en/faq.html",
 		"ikisaran":"http://ikisaran.id/en/faq.html",
 		"imagelang":"http://imagelang.id/en/faq.html",
-		"enrekang":"http://enrekang.id/en/faq.html",
-		"idemak":"http://idemak.id/en/faq.html"
+		"enrekang":"http://enrekang.moco.co.id/en/faq.html",
+		"idemak":"http://idemak.moco.co.id/en/faq.html",
+		"isiak":"http://isiak.moco.co.id/en/faq.html"
 	},
 	"id":{
 		"irohul":"http://irohul.id/faq.html",
@@ -46,7 +47,8 @@
 		"ihss":"http://ihss.id/faq.html",
 		"ikisaran":"http://ikisaran.id/faq.html",
 		"imagelang":"http://imagelang.id/faq.html",
-		"enrekang":"http://enrekang.id/faq.html",
-		"idemak":"http://idemak.id/faq.html"
+		"enrekang":"http://enrekang.moco.co.id/faq.html",
+		"idemak":"http://idemak.moco.co.id/faq.html",
+		"isiak":"http://isiak.moco.co.id/faq.html"
 	}
 }
