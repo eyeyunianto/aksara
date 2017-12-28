@@ -23,7 +23,8 @@
 		"imagelang":"http://imagelang.id/en/howto.html",
 		"enrekang":"http://enrekang.moco.co.id/en/howto.html",
 		"idemak":"http://idemak.moco.co.id/en/howto.html",
-		"isiak":"http://isiak.moco.co.id/en/howto.html"
+		"isiak":"http://isiak.moco.co.id/en/howto.html",
+		"ingawi":"http://ingawi.moco.co.id/en/howto.html"
 	},
 	"id":{
 		"irohul":"http://irohul.id/en/howto.html",
@@ -49,6 +50,7 @@
 		"imagelang":"http://imagelang.id/howto.html",
 		"enrekang":"http://enrekang.moco.co.id/howto.html",
 		"idemak":"http://idemak.moco.co.id/howto.html",
-		"isiak":"http://isiak.moco.co.id/howto.html"
+		"isiak":"http://isiak.moco.co.id/howto.html",
+		"ingawi":"http://ingawi.moco.co.id/howto.html"
 	}
 }
