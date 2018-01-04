@@ -24,7 +24,13 @@
 		"enrekang":"http://enrekang.moco.co.id/en/faq.html",
 		"idemak":"http://idemak.moco.co.id/en/faq.html",
 		"isiak":"http://isiak.moco.co.id/en/faq.html",
-		"ingawi":"http://ingawi.moco.co.id/en/faq.html"
+		"ingawi":"http://ingawi.moco.co.id/en/faq.html",
+		"ikulonprogo":"http://ikulonprogo.moco.co.id/en/faq.html",
+		"ibantul":"http://ibantul.moco.co.id/en/faq.html",
+		"ikebumen":"http://ikebumen.moco.co.id/en/faq.html",
+		"igunungkidul":"http://igunungkidul.moco.co.id/en/faq.html",
+		"ikalteng":"http://ikalteng.moco.co.id/en/faq.html",
+		"lpdp":"http://lpdp.moco.co.id/en/faq.html"
 	},
 	"id":{
 		"irohul":"http://irohul.id/faq.html",
@@ -51,6 +57,12 @@
 		"enrekang":"http://enrekang.moco.co.id/faq.html",
 		"idemak":"http://idemak.moco.co.id/faq.html",
 		"isiak":"http://isiak.moco.co.id/faq.html",
-		"ingawi":"http://ingawi.moco.co.id/faq.html"
+		"ingawi":"http://ingawi.moco.co.id/faq.html",
+		"ikulonprogo":"http://ikulonprogo.moco.co.id/faq.html",
+		"ibantul":"http://ibantul.moco.co.id/faq.html",
+		"ikebumen":"http://ikebumen.moco.co.id/faq.html",
+		"igunungkidul":"http://igunungkidul.moco.co.id/faq.html",
+		"ikalteng":"http://ikalteng.moco.co.id/faq.html",
+		"lpdp":"http://lpdp.moco.co.id/faq.html"
 	}
 }
