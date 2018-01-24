@@ -30,7 +30,10 @@
 		"ikebumen":"http://ikebumen.moco.co.id/en/howto.html",
 		"igunungkidul":"http://igunungkidul.moco.co.id/en/howto.html",
 		"ikalteng":"http://ikalteng.moco.co.id/en/howto.html",
-		"lpdp":"http://lpdp.moco.co.id/en/howto.html"
+		"lpdp":"http://lpdp.moco.co.id/en/howto.html",
+		"imaluku":"http://imaluku.moco.co.id/en/howto.html",
+		"ipekanbaru":"http://ipekanbaru.moco.co.id/en/howto.html",
+		"icirebon":"http://icirebon.moco.co.id/en/howto.html"
 	},
 	"id":{
 		"irohul":"http://irohul.id/en/howto.html",
@@ -63,6 +66,9 @@
 		"ikebumen":"http://ikebumen.moco.co.id/howto.html",
 		"igunungkidul":"http://igunungkidul.moco.co.id/howto.html",
 		"ikalteng":"http://ikalteng.moco.co.id/howto.html",
-		"lpdp":"http://lpdp.moco.co.id/howto.html"
+		"lpdp":"http://lpdp.moco.co.id/howto.html",
+		"imaluku":"http://imaluku.moco.co.id/howto.html",
+		"ipekanbaru":"http://ipekanbaru.moco.co.id/howto.html",
+		"icirebon":"http://icirebon.moco.co.id/howto.html"
 	}
 }
