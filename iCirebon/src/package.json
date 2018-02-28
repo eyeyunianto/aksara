@@ -32,7 +32,7 @@
   "manifestUrl": "https://raw.githubusercontent.com/eyeyunianto/fb_iCirebon/master/src/package.json",
   "packages": {
     "osx64": "http://download.aksaramaya.id/iCirebon.dmg",
-    "win32": "http://download.aksaramaya.id/iCirebon.exe",
+    "win32": "http://download.aksaramaya.id/iCirebonSetup.exe",
     "linux32": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iCirebon_linux32.deb",
     "linux64": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iCirebon_linux64.deb"
   }

@@ -35,7 +35,9 @@
 		"ipekanbaru":"http://ipekanbaru.moco.co.id/en/howto.html",
 		"icirebon":"http://icirebon.moco.co.id/en/howto.html",
 		"iriau":"http://iriau.moco.co.id/en/howto.html",
-		"wapres":"http://wapres.moco.co.id/en/howto.html"
+		"wapres":"http://wapres.moco.co.id/en/howto.html",
+		"ikalsel":"http://ikalsel.moco.co.id/en/howto.html",
+		"isemarang":"http://isemarang.moco.co.id/en/howto.html"
 	},
 	"id":{
 		"irohul":"http://irohul.id/en/howto.html",
@@ -73,6 +75,8 @@
 		"ipekanbaru":"http://ipekanbaru.moco.co.id/howto.html",
 		"icirebon":"http://icirebon.moco.co.id/howto.html",
 		"iriau":"http://iriau.moco.co.id/howto.html",
-		"wapres":"http://wapres.moco.co.id/howto.html"
+		"wapres":"http://wapres.moco.co.id/howto.html",
+		"ikalsel":"http://ikalsel.moco.co.id/howto.html",
+		"isemarang":"http://isemarang.moco.co.id/howto.html"
 	}
 }
