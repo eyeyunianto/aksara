@@ -31,8 +31,8 @@
   },
   "manifestUrl": "https://raw.githubusercontent.com/eyeyunianto/fb_iHSS/master/src/package.json",
   "packages": {
-    "osx64": "http://iHSS.id/download/iHSS.dmg",
-    "win32": "http://iHSS.id/download/iHSS.exe",
+    "osx64": "http://download.aksaramaya.id/iHSS.dmg",
+    "win32": "http://download.aksaramaya.id/iHSSSetup.exe",
     "linux32": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iHSS_linux32.deb",
     "linux64": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iHSS_linux64.deb"
   }

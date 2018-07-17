@@ -31,8 +31,8 @@
   },
   "manifestUrl": "https://raw.githubusercontent.com/eyeyunianto/fb_iSiak/master/src/package.json",
   "packages": {
-    "osx64": "http://iSiak.id/download/iSiak.dmg",
-    "win32": "http://iSiak.id/download/iSiak.exe",
+    "osx64": "http://download.aksaramaya.id/iSiak.dmg",
+    "win32": "http://download.aksaramaya.id/iSiakSetup.exe",
     "linux32": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iSiak_linux32.deb",
     "linux64": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iSiak_linux64.deb"
   }

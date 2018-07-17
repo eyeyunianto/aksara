@@ -31,8 +31,8 @@
   },
   "manifestUrl": "https://raw.githubusercontent.com/eyeyunianto/fb_iBoyolali/master/src/package.json",
   "packages": {
-    "osx64": "http://iBoyolali.id/download/iBoyolali.dmg",
-    "win32": "http://iBoyolali.id/download/iBoyolali.exe",
+    "osx64": "http://download.aksaramaya.id/iBoyolali.dmg",
+    "win32": "http://download.aksaramaya.id/iBoyolaliSetup.exe",
     "linux32": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iBoyolali_linux32.deb",
     "linux64": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iBoyolali_linux64.deb"
   }

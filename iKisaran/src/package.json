@@ -31,8 +31,8 @@
   },
   "manifestUrl": "https://raw.githubusercontent.com/eyeyunianto/fb_iKisaran/master/src/package.json",
   "packages": {
-    "osx64": "http://iKisaran.id/download/iKisaran.dmg",
-    "win32": "http://iKisaran.id/download/iKisaran.exe",
+    "osx64": "http://download.aksaramaya.id/iKisaran.dmg",
+    "win32": "http://download.aksaramaya.id/iKisaranSetup.exe",
     "linux32": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iKisaran_linux32.deb",
     "linux64": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iKisaran_linux64.deb"
   }
