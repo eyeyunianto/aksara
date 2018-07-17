@@ -1,10 +1,10 @@
 {
-  "name": "iBILib",
+  "name": "iBilib",
   "version": "1.0.0",
-  "description": "iBILib starter project powered by Gulp.",
+  "description": "iBilib starter project powered by Gulp.",
   "repository": {
     "type": "git",
-    "url": "iBILib.id"
+    "url": "iBilib.id"
   },
   "scripts": {
     "test": "MODE=dev npm run setting",

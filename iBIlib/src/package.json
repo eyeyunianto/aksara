@@ -1,15 +1,15 @@
 {
   "main": "app.html",
-  "name": "iBILib",
+  "name": "iBilib",
   "version": "1.0.0",
-  "app-id": "com.iBILib",
+  "app-id": "com.iBilib",
   "chromium-args": "--disable-setuid-sandbox",
   "window": {
     "width": 802,
     "height": 702,
     "min_width": 802,
     "min_height": 702,
-    "title": "iBILib",
+    "title": "iBilib",
     "icon": "img/icon/icon.png",
     "toolbar": true,
     "frame": true,
@@ -29,11 +29,11 @@
     "universal-analytics":"0.3.9",
     "request-progress":"0.3.1"
   },
-  "manifestUrl": "https://raw.githubusercontent.com/eyeyunianto/fb_iBILib/master/src/package.json",
+  "manifestUrl": "https://raw.githubusercontent.com/eyeyunianto/fb_iBilib/master/src/package.json",
   "packages": {
-    "osx64": "http://download.aksaramaya.id/iBILib.dmg",
-    "win32": "http://download.aksaramaya.id/iBILibSetup.exe",
-    "linux32": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iBILib_linux32.deb",
-    "linux64": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iBILib_linux64.deb"
+    "osx64": "http://download.aksaramaya.id/iBilib.dmg",
+    "win32": "http://download.aksaramaya.id/iBilibSetup.exe",
+    "linux32": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iBilib_linux32.deb",
+    "linux64": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iBilib_linux64.deb"
   }
 }
