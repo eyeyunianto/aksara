@@ -14,7 +14,7 @@ fi
 # Replace version in package.json files
 sed -i.bak "s/\"version\": \".*\"/\"version\": \"$1\"/g" ./package.json
 sed -i.bak "s/\"version\": \".*\"/\"version\": \"$1\"/g" ./src/package.json
-sed -i.bak "s/download\/v.*\/iTangerang/download\/v$1\/iTangerang/g" ./src/package.json
+sed -i.bak "s/download\/v.*\/iTangerangkota/download\/v$1\/iTangerangkota/g" ./src/package.json
 
 # Clean up
 rm ./package.json.bak

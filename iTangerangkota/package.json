@@ -1,10 +1,10 @@
 {
-  "name": "iTangerang",
+  "name": "iTangerangkota",
   "version": "1.0.0",
-  "description": "iTangerang starter project powered by Gulp.",
+  "description": "iTangerangkota starter project powered by Gulp.",
   "repository": {
     "type": "git",
-    "url": "iTangerang.id"
+    "url": "iTangerangkota.id"
   },
   "scripts": {
     "test": "MODE=dev npm run setting",
