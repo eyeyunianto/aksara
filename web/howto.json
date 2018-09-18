@@ -62,7 +62,7 @@
 		"isambas":"http://isambas.moco.co.id/en/howto.html",
 		"igresik":"http://igresik.moco.co.id/en/howto.html",
 		"itangkab":"http://itangkab.moco.co.id/en/howto.html",
-		"ikaltim":"http://ikaltim.id/en/howto.html"
+		"ikaltim":"http://ikaltim.id/en/howto/index.html"
 	},
 	"id":{
 		"irohul":"http://irohul.id/en/howto.html",
@@ -127,6 +127,6 @@
 		"isambas":"http://isambas.moco.co.id/howto.html",
 		"igresik":"http://igresik.moco.co.id/howto.html",
 		"itangkab":"http://itangkab.moco.co.id/howto.html",
-		"ikaltim":"http://ikaltim.id/howto.html"
+		"ikaltim":"http://ikaltim.id/howto/index.html"
 	}
 }
