@@ -78,7 +78,8 @@
 		"isukabumi":"http://isukabumi.id/en/faq.html",
 		"inunukan":"http://inunukan.moco.co.id/en/faq.html",
 		"imuseum":"http://imuseum.moco.co.id/en/faq.html",
-		"isamarinda":"http://isamarinda.moco.co.id/en/faq.html"
+		"isamarinda":"http://isamarinda.moco.co.id/en/faq.html",
+		"impr":"http://impr.moco.co.id/en/faq.html"
 
 	},
 	"id":{
@@ -159,6 +160,7 @@
 		"isukabumi":"http://isukabumi.id/faq.html",
 		"inunukan":"http://inunukan.moco.co.id/faq.html",
 		"imuseum":"http://imuseum.moco.co.id/faq.html",
-		"isamarinda":"http://isamarinda.moco.co.id/faq.html"
+		"isamarinda":"http://isamarinda.moco.co.id/faq.html",
+		"impr":"http://impr.moco.co.id/faq.html"
 	}
 }
