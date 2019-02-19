@@ -80,7 +80,8 @@
 		"imuseum":"http://imuseum.moco.co.id/en/faq.html",
 		"isamarinda":"http://isamarinda.moco.co.id/en/faq.html",
 		"impr":"http://impr.moco.co.id/en/faq.html",
-		"ibengkayang":"http://ibengkayang.moco.co.id/en/faq.html"
+		"ibengkayang":"http://ibengkayang.moco.co.id/en/faq.html",
+		"ipustakajambi":"http://ipustakajambi.moco.co.id/en/faq.html"
 
 	},
 	"id":{
@@ -163,6 +164,7 @@
 		"imuseum":"http://imuseum.moco.co.id/faq.html",
 		"isamarinda":"http://isamarinda.moco.co.id/faq.html",
 		"impr":"http://impr.moco.co.id/faq.html",
-		"ibengkayang":"http://ibengkayang.moco.co.id/faq.html"
+		"ibengkayang":"http://ibengkayang.moco.co.id/faq.html",
+		"ipustakajambi":"http://ipustakajambi.moco.co.id/faq.html"
 	}
 }
