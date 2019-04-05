@@ -85,7 +85,8 @@
 		"isungaipenuh":"http://isungaipenuh.moco.co.id/en/faq.html",
 		"idumai":"http://idumai.moco.co.id/en/faq.html",
 		"iwaykanan":"http://iwaykanan.moco.co.id/en/faq.html",
-		"ilotim":"http://ilotim.moco.co.id/en/faq.html"
+		"ilotim":"http://ilotim.moco.co.id/en/faq.html",
+		"igowa":"http://igowa.moco.co.id/en/faq.html"
 
 	},
 	"id":{
@@ -173,6 +174,7 @@
 		"isungaipenuh":"http://isungaipenuh.moco.co.id/faq.html",
 		"idumai":"http://idumai.moco.co.id/faq.html",
 		"iwaykanan":"http://iwaykanan.moco.co.id/faq.html",
-		"ilotim":"http://ilotim.moco.co.id/faq.html"
+		"ilotim":"http://ilotim.moco.co.id/faq.html",
+		"igowa":"http://igowa.moco.co.id/faq.html"
 	}
 }
