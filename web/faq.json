@@ -90,7 +90,8 @@
 		"isolokkab":"http://isolokkab.moco.co.id/en/faq.html",
 		"ihumbang":"http://ihumbang.moco.co.id/en/faq.html",
 		"idairi":"http://idairi.moco.co.id/en/faq.html",
-		"isumedang":"http://isumedang.moco.co.id/en/faq.html"
+		"isumedang":"http://isumedang.moco.co.id/en/faq.html",
+		"isubabaratdaya":"http://isubabaratdaya.moco.co.id/en/faq.html"
 
 	},
 	"id":{
@@ -183,6 +184,7 @@
 		"isolokkab":"http://isolokkab.moco.co.id/faq.html",
 		"ihumbang":"http://ihumbang.moco.co.id/faq.html",
 		"idairi":"http://idairi.moco.co.id/faq.html",
-		"isumedang":"http://isumedang.moco.co.id/faq.html"
+		"isumedang":"http://isumedang.moco.co.id/faq.html",
+		"isubabaratdaya":"http://isubabaratdaya.moco.co.id/faq.html"
 	}
 }
