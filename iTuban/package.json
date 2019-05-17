@@ -1,10 +1,10 @@
 {
-  "name": "iTorut",
+  "name": "iTuban",
   "version": "1.0.0",
-  "description": "iTorut starter project powered by Gulp.",
+  "description": "iTuban starter project powered by Gulp.",
   "repository": {
     "type": "git",
-    "url": "iTorut.id"
+    "url": "iTuban.id"
   },
   "scripts": {
     "test": "MODE=dev npm run setting",
