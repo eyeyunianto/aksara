@@ -101,11 +101,13 @@
 		"ituban":"http://ituban.moco.co.id/en/faq.html",
 		"isolokselatan":"http://isolokselatan.moco.co.id/en/faq.html",
 		"ibatanghari":"http://ibatanghari.moco.co.id/en/faq.html",
+		"iparigimoutong":"http://iparigimoutong.moco.co.id/en/faq.html",
 		"ibatam":"http://ibatam.moco.co.id/en/faq.html",
 		"iwajo":"http://iwajo.moco.co.id/en/faq.html",
 		"ipusbandung":"http://ipusbandung.moco.co.id/en/faq.html",
 		"ijambikota":"http://ijambikota.moco.co.id/en/faq.html",
-		"ilampung":"http://ilampung.moco.co.id/en/faq.html"
+		"ilampung":"http://ilampung.moco.co.id/en/faq.html",
+		"imeulaboh":"http://imeulaboh.moco.co.id/en/faq.html"
 
 	},
 	"id":{
@@ -209,10 +211,12 @@
 		"ituban":"http://ituban.moco.co.id/faq.html",
 		"isolokselatan":"http://isolokselatan.moco.co.id/faq.html",
 		"ibatanghari":"http://ibatanghari.moco.co.id/faq.html",
+		"iparigimoutong":"http://iparigimoutong.moco.co.id/faq.html",
 		"ibatam":"http://ibatam.moco.co.id/faq.html",
 		"iwajo":"http://iwajo.moco.co.id/faq.html",
 		"ipusbandung":"http://ipusbandung.moco.co.id/faq.html",
 		"ijambikota":"http://ijambikota.moco.co.id/faq.html",
-		"ilampung":"http://ilampung.moco.co.id/faq.html"
+		"ilampung":"http://ilampung.moco.co.id/faq.html",
+		"imeulaboh":"http://imeulaboh.moco.co.id/faq.html"
 	}
 }
