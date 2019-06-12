@@ -110,7 +110,11 @@
 		"imeulaboh":"http://imeulaboh.moco.co.id/en/faq.html",
 		"isingkawanghebat":"http://isingkawanghebat.moco.co.id/en/faq.html",		
 		"mkdigitallibrary":"http://mkdigitallibrary.moco.co.id/en/faq.html",		
-		"ipekalongankab":"http://ipekalongankab.moco.co.id/en/faq.html"
+		"ipekalongankab":"http://ipekalongankab.moco.co.id/en/faq.html",		
+		"ijabar":"http://ijabar.moco.co.id/en/faq.html",		
+		"iacehbarat":"http://iacehbarat.moco.co.id/en/faq.html",		
+		"isulut":"http://isulut.moco.co.id/en/faq.html",		
+		"irembang":"http://irembang.moco.co.id/en/faq.html"
 
 	},
 	"id":{
@@ -223,6 +227,10 @@
 		"imeulaboh":"http://imeulaboh.moco.co.id/faq.html",
 		"isingkawanghebat":"http://isingkawanghebat.moco.co.id/faq.html",
 		"mkdigitallibrary":"http://mkdigitallibrary.moco.co.id/faq.html",
-		"ipekalongankab":"http://ipekalongankab.moco.co.id/faq.html"
+		"ipekalongankab":"http://ipekalongankab.moco.co.id/faq.html",
+		"ijabar":"http://ijabar.moco.co.id/faq.html",
+		"iacehbarat":"http://iacehbarat.moco.co.id/faq.html",
+		"isulut":"http://isulut.moco.co.id/faq.html",
+		"irembang":"http://irembang.moco.co.id/faq.html"
 	}
 }
