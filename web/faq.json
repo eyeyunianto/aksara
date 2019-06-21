@@ -118,7 +118,10 @@
 		"imuba":"http://imuba.moco.co.id/en/faq.html",
 		"ihsu":"http://ihsu.moco.co.id/en/faq.html",
 		"iniasutara":"http://iniasutara.moco.co.id/en/faq.html",
-		"inagekeo":"http://inagekeo.moco.co.id/en/faq.html"
+		"inagekeo":"http://inagekeo.moco.co.id/en/faq.html",
+		"imetro":"http://imetro.moco.co.id/en/faq.html",
+		"isanggau":"http://isanggau.moco.co.id/en/faq.html",
+		"ipasangkayu":"http://ipasangkayu.moco.co.id/en/faq.html"
 	},
 	"id":{
 		"irohul":"http://irohul.id/faq.html",
@@ -238,6 +241,9 @@
 		"imuba":"http://imuba.moco.co.id/faq.html",
 		"ihsu":"http://ihsu.moco.co.id/faq.html",
 		"iniasutara":"http://iniasutara.moco.co.id/faq.html",
-		"inagekeo":"http://inagekeo.moco.co.id/faq.html"
+		"inagekeo":"http://inagekeo.moco.co.id/faq.html",
+		"imetro":"http://imetro.moco.co.id/faq.html",
+		"isanggau":"http://isanggau.moco.co.id/faq.html",
+		"ipasangkayu":"http://ipasangkayu.moco.co.id/faq.html"
 	}
 }
