@@ -123,7 +123,9 @@
 		"ipasangkayu":"http://ipasangkayu.moco.co.id/en/howto.html",
 		"idenpasar":"http://idenpasar.moco.co.id/en/howto.html",
 		"ilombokutara":"http://ilombokutara.moco.co.id/en/howto.html",
-		"isumsel":"http://isumsel.moco.co.id/en/howto.html"
+		"isumsel":"http://isumsel.moco.co.id/en/howto.html",
+		"itebo":"http://itebo.moco.co.id/en/howto.html",
+		"ibulungan":"http://ibulungan.moco.co.id/en/howto.html"
 	},
 	"id":{
 		"irohul":"http://irohul.id/en/howto.html",
@@ -249,6 +251,8 @@
 		"ipasangkayu":"http://ipasangkayu.moco.co.id/howto.html",
 		"idenpasar":"http://idenpasar.moco.co.id/howto.html",
 		"ilombokutara":"http://ilombokutara.moco.co.id/howto.html",
-		"isumsel":"http://isumsel.moco.co.id/en/howto.html"
+		"isumsel":"http://isumsel.moco.co.id/en/howto.html",
+		"itebo":"http://itebo.moco.co.id/howto.html",
+		"ibulungan":"http://ibulungan.moco.co.id/howto.html"
 	}
 }
