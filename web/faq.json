@@ -140,7 +140,9 @@
 		"isumut":"http://isumut.moco.co.id/en/faq.html",
 		"ilabuhanbatu":"http://ilabuhanbatu.moco.co.id/en/faq.html",
 		"imadina":"http://imadina.moco.co.id/en/faq.html",
-		"ikupangkota":"http://ikupangkota.moco.co.id/en/faq.html"
+		"ikupangkota":"http://ikupangkota.moco.co.id/en/faq.html",
+		"ibuleleng":"http://ibuleleng.moco.co.id/en/faq.html",
+		"ideliserdang":"http://ideliserdang.moco.co.id/en/faq.html"
 	},
 	"id":{
 		"irohul":"http://irohul.id/faq.html",
@@ -282,6 +284,8 @@
 		"isumut":"http://isumut.moco.co.id/faq.html",
 		"ilabuhanbatu":"http://ilabuhanbatu.moco.co.id/faq.html",
 		"imadina":"http://imadina.moco.co.id/faq.html",
-		"ikupangkota":"http://ikupangkota.moco.co.id/faq.html"
+		"ikupangkota":"http://ikupangkota.moco.co.id/faq.html",
+		"ibuleleng":"http://ibuleleng.moco.co.id/faq.html",
+		"ideliserdang":"http://ideliserdang.moco.co.id/faq.html"
 	}
 }
