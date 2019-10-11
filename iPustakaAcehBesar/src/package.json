@@ -1,15 +1,15 @@
 {
   "main": "app.html",
-  "name": "iAcehBesar",
+  "name": "ipustakaacehbesar",
   "version": "1.0.0",
-  "app-id": "com.iAcehBesar",
+  "app-id": "com.ipustakaacehbesar",
   "chromium-args": "--disable-setuid-sandbox",
   "window": {
     "width": 802,
     "height": 702,
     "min_width": 802,
     "min_height": 702,
-    "title": "iAcehBesar",
+    "title": "iPustakaAcehBesar",
     "icon": "img/icon/icon.png",
     "toolbar": true,
     "frame": true,
@@ -29,11 +29,11 @@
     "universal-analytics":"0.3.9",
     "request-progress":"0.3.1"
   },
-  "manifestUrl": "https://raw.githubusercontent.com/eyeyunianto/fb_iAcehBesar/master/src/package.json",
+  "manifestUrl": "https://raw.githubusercontent.com/eyeyunianto/fb_iPustakaAcehBesar/master/src/package.json",
   "packages": {
-    "osx64": "http://download.aksaramaya.id/iAcehBesar.dmg",
-    "win32": "http://download.aksaramaya.id/iAcehBesarSetup.exe",
-    "linux32": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iAcehBesar_linux32.deb",
-    "linux64": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iAcehBesar_linux64.deb"
+    "osx64": "http://download.aksaramaya.id/iPustakaAcehBesar.dmg",
+    "win32": "http://download.aksaramaya.id/iPustakaAcehBesarSetup.exe",
+    "linux32": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iPustakaAcehBesar_linux32.deb",
+    "linux64": "https://github.com/eyeyunianto/fb_ijak/releases/download/v1.0.0/iPustakaAcehBesar_linux64.deb"
   }
 }

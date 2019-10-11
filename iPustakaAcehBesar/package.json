@@ -1,10 +1,10 @@
 {
-  "name": "iAcehBesar",
+  "name": "ipustakaacehbesar",
   "version": "1.0.0",
-  "description": "iAcehBesar starter project powered by Gulp.",
+  "description": "iPustakaAcehBesar starter project powered by Gulp.",
   "repository": {
     "type": "git",
-    "url": "iAcehBesar.id"
+    "url": "ipustakaacehbesar.id"
   },
   "scripts": {
     "test": "MODE=dev npm run setting",
