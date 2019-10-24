@@ -1,10 +1,10 @@
 {
-  "name": "iBadung",
+  "name": "PustakaGita",
   "version": "1.0.0",
-  "description": "iBadung starter project powered by Gulp.",
+  "description": "PustakaGita starter project powered by Gulp.",
   "repository": {
     "type": "git",
-    "url": "iBadung.id"
+    "url": "PustakaGita.id"
   },
   "scripts": {
     "test": "MODE=dev npm run setting",
