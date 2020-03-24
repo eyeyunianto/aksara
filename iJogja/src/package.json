@@ -1,8 +1,8 @@
 {
   "main": "app.html",
-  "name": "iJogja",
+  "name": "ijogja",
   "version": "1.0.0",
-  "app-id": "com.iJogja",
+  "app-id": "com.ijogja",
   "chromium-args": "--disable-setuid-sandbox",
   "window": {
     "width": 802,

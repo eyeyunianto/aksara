@@ -1,10 +1,10 @@
 {
-  "name": "iJogja",
+  "name": "ijogja",
   "version": "1.0.0",
   "description": "iJogja starter project powered by Gulp.",
   "repository": {
     "type": "git",
-    "url": "iJogja.id"
+    "url": "ijogja.id"
   },
   "scripts": {
     "test": "MODE=dev npm run setting",
