@@ -1,10 +1,10 @@
 {
-  "name": "iperpusntt",
+  "name": "eperpusntt",
   "version": "1.0.0",
-  "description": "iPerpusNTT starter project powered by Gulp.",
+  "description": "ePerpusNTT starter project powered by Gulp.",
   "repository": {
     "type": "git",
-    "url": "iperpusntt.id"
+    "url": "eperpusntt.id"
   },
   "scripts": {
     "test": "MODE=dev npm run setting",
