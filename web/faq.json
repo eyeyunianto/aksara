@@ -191,7 +191,8 @@
 		"isidrap":"http://isidrap.moco.co.id/en/faq.html",
 		"ipusdapandeglang":"http://ipusdapandeglang.moco.co.id/en/faq.html",
 		"diarysumsel":"http://diarysumsel.moco.co.id/en/faq.html",
-		"ipangkalpinang":"http://ipangkalpinang.moco.co.id/en/faq.html"
+		"ipangkalpinang":"http://ipangkalpinang.moco.co.id/en/faq.html",
+		"podi":"http://podi.moco.co.id/en/faq.html"
 	},
 	"id":{
 		"irohul":"http://irohul.moco.co.id/faq.html",
@@ -384,6 +385,7 @@
 		"isidrap":"http://isidrap.moco.co.id/faq.html",
 		"ipusdapandeglang":"http://ipusdapandeglang.moco.co.id/faq.html",
 		"diarysumsel":"http://diarysumsel.moco.co.id/faq.html",
-		"ipangkalpinang":"http://ipangkalpinang.moco.co.id/faq.html"
+		"ipangkalpinang":"http://ipangkalpinang.moco.co.id/faq.html",
+		"podi":"http://podi.moco.co.id/faq.html"
 	}
 }

@@ -190,7 +190,8 @@
 		"isidrap":"http://isidrap.moco.co.id/en/howto.html",
 		"ipusdapandeglang":"http://ipusdapandeglang.moco.co.id/en/howto.html",
 		"diarysumsel":"http://diarysumsel.moco.co.id/en/howto.html",
-		"ipangkalpinang":"http://ipangkalpinang.moco.co.id/en/howto.html"
+		"ipangkalpinang":"http://ipangkalpinang.moco.co.id/en/howto.html",
+		"podi":"http://podi.moco.co.id/en/howto.html"
 	},
 	"id":{
 		"irohul":"http://irohul.moco.co.id/en/howto.html",
@@ -383,6 +384,7 @@
 		"isidrap":"http://isidrap.moco.co.id/howto.html",
 		"ipusdapandeglang":"http://ipusdapandeglang.moco.co.id/howto.html",
 		"diarysumsel":"http://diarysumsel.moco.co.id/howto.html",
-		"ipangkalpinang":"http://ipangkalpinang.moco.co.id/howto.html"
+		"ipangkalpinang":"http://ipangkalpinang.moco.co.id/howto.html",
+		"podi":"http://podi.moco.co.id/howto.html"
 	}
 }
