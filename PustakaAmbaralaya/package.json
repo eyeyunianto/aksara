@@ -1,10 +1,10 @@
 {
-  "name": "ibali",
+  "name": "PustakaAmbaralaya",
   "version": "1.0.0",
-  "description": "iBali starter project powered by Gulp.",
+  "description": "PustakaAmbaralaya starter project powered by Gulp.",
   "repository": {
     "type": "git",
-    "url": "ibali.id"
+    "url": "PustakaAmbaralaya.id"
   },
   "scripts": {
     "test": "MODE=dev npm run setting",
