@@ -1,10 +1,10 @@
 {
-  "name": "eBookGerobogan",
+  "name": "eBookGrobogan",
   "version": "1.0.0",
-  "description": "eBookGerobogan starter project powered by Gulp.",
+  "description": "eBookGrobogan starter project powered by Gulp.",
   "repository": {
     "type": "git",
-    "url": "eBookGerobogan.id"
+    "url": "eBookGrobogan.id"
   },
   "scripts": {
     "test": "MODE=dev npm run setting",
