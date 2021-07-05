@@ -211,7 +211,9 @@
 		"ipusrotendao":"http://ipusrotendao.moco.co.id/en/faq.html",
 		"buniktebingtinggi":"http://buniktebingtinggi.moco.co.id/en/faq.html",
 		"ikutim":"http://ikutim.moco.co.id/en/faq.html",
-		"ipegubin":"http://ipegubin.moco.co.id/en/faq.html"
+		"ipegubin":"http://ipegubin.moco.co.id/en/faq.html",
+		"isumbawa":"http://isumbawa.moco.co.id/en/faq.html",
+		"ntbelib":"http://ntbelib.moco.co.id/en/faq.html"
 	},
 	"id":{
 		"irohul":"http://irohul.moco.co.id/faq.html",
@@ -424,6 +426,8 @@
 		"ipusrotendao":"http://ipusrotendao.moco.co.id/faq.html",
 		"buniktebingtinggi":"http://buniktebingtinggi.moco.co.id/faq.html",
 		"ikutim":"http://ikutim.moco.co.id/faq.html",
-		"ipegubin":"http://ipegubin.moco.co.id/faq.html"
+		"ipegubin":"http://ipegubin.moco.co.id/faq.html",
+		"isumbawa":"http://isumbawa.moco.co.id/faq.html",
+		"ntbelib":"http://ntbelib.moco.co.id/faq.html"
 	}
 }
