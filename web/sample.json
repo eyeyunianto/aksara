@@ -1,0 +1,386 @@
+{
+	"openapi": "3.0.0",
+	"info": {
+		"description": "Dokumentasi Custom API",
+		"title": "Dokumentasi Custom API",
+		"version": "0.0.0"
+	},
+	"paths": {
+		"/webhook/borrow": {
+			"post": {
+				"responses": {
+					"200": {
+						"description": "An undocumented response body."
+					},
+					"400": {
+						"description": "Validation Error",
+						"content": {
+							"application/json": {
+								"example": [{
+									"keyword": "required",
+									"dataPath": "",
+									"schemaPath": "#/required",
+									"params": {
+										"missingProperty": "data"
+									},
+									"message": "should have required property 'data'"
+								}]
+							}
+						}
+					},
+					"403": {
+						"description": "Access Denied",
+						"content": {
+							"application/json": {
+								"example": "ACCESS_DENIED"
+							}
+						}
+					},
+					"500": {
+						"description": "Internal Server Error",
+						"content": {
+							"application/json": {
+								"example": {
+									"error": "ERROR_MESSAGE"
+								}
+							}
+						}
+					}
+				},
+				"tags": ["HTTP"],
+				"description": " <strong>[Access Policy]</strong> <br>1. Anonymous<br> 2. Administrator<br>  ",
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"title": "body",
+								"type": "object",
+								"properties": {
+									"epustaka_id": {
+										"type": "string",
+										"title": "epustaka_id",
+										"format": "uuid"
+									},
+									"user_id": {
+										"type": "string",
+										"title": "user_id",
+										"format": "uuid"
+									},
+									"book_id": {
+										"type": "string",
+										"title": "book_id",
+										"format": "uuid"
+									},
+									"school_id": {
+										"type": "string",
+										"title": "school_id",
+										"format": "uuid"
+									}
+								},
+								"required": ["epustaka_id", "user_id", "book_id", "school_id"]
+							}
+						}
+					}
+				}
+			}
+		},
+		"/webhook/bulk-protect": {
+			"post": {
+				"responses": {
+					"200": {
+						"description": "An undocumented response body."
+					},
+					"400": {
+						"description": "Validation Error",
+						"content": {
+							"application/json": {
+								"example": [{
+									"keyword": "required",
+									"dataPath": "",
+									"schemaPath": "#/required",
+									"params": {
+										"missingProperty": "data"
+									},
+									"message": "should have required property 'data'"
+								}]
+							}
+						}
+					},
+					"403": {
+						"description": "Access Denied",
+						"content": {
+							"application/json": {
+								"example": "ACCESS_DENIED"
+							}
+						}
+					},
+					"500": {
+						"description": "Internal Server Error",
+						"content": {
+							"application/json": {
+								"example": {
+									"error": "ERROR_MESSAGE"
+								}
+							}
+						}
+					}
+				},
+				"tags": ["HTTP"],
+				"description": " <strong>[Access Policy]</strong> <br>1. Administrator<br> 2. Anonymous<br>  ",
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"title": "body",
+								"type": "object",
+								"properties": {
+									"books": {
+										"type": "array",
+										"items": {
+											"$ref": "#/components/references/bulk-protect/book"
+										},
+										"title": "books"
+									}
+								},
+								"required": ["books"]
+							}
+						}
+					}
+				}
+			}
+		},
+		"/webhook/check": {
+			"get": {
+				"responses": {
+					"200": {
+						"description": "An undocumented response body."
+					},
+					"400": {
+						"description": "Validation Error",
+						"content": {
+							"application/json": {
+								"example": [{
+									"keyword": "required",
+									"dataPath": "",
+									"schemaPath": "#/required",
+									"params": {
+										"missingProperty": "data"
+									},
+									"message": "should have required property 'data'"
+								}]
+							}
+						}
+					},
+					"403": {
+						"description": "Access Denied",
+						"content": {
+							"application/json": {
+								"example": "ACCESS_DENIED"
+							}
+						}
+					},
+					"500": {
+						"description": "Internal Server Error",
+						"content": {
+							"application/json": {
+								"example": {
+									"error": "ERROR_MESSAGE"
+								}
+							}
+						}
+					}
+				},
+				"tags": ["HTTP"],
+				"description": " <strong>[Access Policy]</strong> <br>1. Anonymous<br> 2. Administrator<br>  "
+			}
+		},
+		"/webhook/identity": {
+			"get": {
+				"responses": {
+					"200": {
+						"description": "An undocumented response body."
+					},
+					"400": {
+						"description": "Validation Error",
+						"content": {
+							"application/json": {
+								"example": [{
+									"keyword": "required",
+									"dataPath": "",
+									"schemaPath": "#/required",
+									"params": {
+										"missingProperty": "data"
+									},
+									"message": "should have required property 'data'"
+								}]
+							}
+						}
+					},
+					"403": {
+						"description": "Access Denied",
+						"content": {
+							"application/json": {
+								"example": "ACCESS_DENIED"
+							}
+						}
+					},
+					"500": {
+						"description": "Internal Server Error",
+						"content": {
+							"application/json": {
+								"example": {
+									"error": "ERROR_MESSAGE"
+								}
+							}
+						}
+					}
+				},
+				"tags": ["HTTP"],
+				"description": " <strong>[Access Policy]</strong> <br>1. Administrator<br> 2. Anonymous<br>  "
+			}
+		},
+		"/webhook/protect": {
+			"post": {
+				"responses": {
+					"200": {
+						"description": "An undocumented response body."
+					},
+					"400": {
+						"description": "Validation Error",
+						"content": {
+							"application/json": {
+								"example": [{
+									"keyword": "required",
+									"dataPath": "",
+									"schemaPath": "#/required",
+									"params": {
+										"missingProperty": "data"
+									},
+									"message": "should have required property 'data'"
+								}]
+							}
+						}
+					},
+					"403": {
+						"description": "Access Denied",
+						"content": {
+							"application/json": {
+								"example": "ACCESS_DENIED"
+							}
+						}
+					},
+					"500": {
+						"description": "Internal Server Error",
+						"content": {
+							"application/json": {
+								"example": {
+									"error": "ERROR_MESSAGE"
+								}
+							}
+						}
+					}
+				},
+				"tags": ["HTTP"],
+				"description": " <strong>[Access Policy]</strong> <br>1. Administrator<br> 2. Anonymous<br>  ",
+				"requestBody": {
+					"content": {
+						"application/json": {
+							"schema": {
+								"title": "body",
+								"type": "object",
+								"properties": {
+									"book_id": {
+										"type": "string",
+										"title": "book_id",
+										"format": "uuid"
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"/webhook/return-book": {
+			"post": {
+				"responses": {
+					"200": {
+						"description": "An undocumented response body."
+					},
+					"400": {
+						"description": "Validation Error",
+						"content": {
+							"application/json": {
+								"example": [{
+									"keyword": "required",
+									"dataPath": "",
+									"schemaPath": "#/required",
+									"params": {
+										"missingProperty": "data"
+									},
+									"message": "should have required property 'data'"
+								}]
+							}
+						}
+					},
+					"403": {
+						"description": "Access Denied",
+						"content": {
+							"application/json": {
+								"example": "ACCESS_DENIED"
+							}
+						}
+					},
+					"500": {
+						"description": "Internal Server Error",
+						"content": {
+							"application/json": {
+								"example": {
+									"error": "ERROR_MESSAGE"
+								}
+							}
+						}
+					}
+				},
+				"tags": ["HTTP"],
+				"description": " <strong>[Access Policy]</strong> <br>1. Administrator<br> 2. Anonymous<br>  "
+			}
+		}
+	},
+	"servers": [{
+		"url": "/"
+	}],
+	"components": {
+		"securitySchemes": {
+			"bearerAuth": {
+				"type": "http",
+				"scheme": "bearer",
+				"bearerFormat": "JWT"
+			}
+		},
+		"references": {
+			"borrow": {},
+			"bulk-protect": {
+				"book": {
+					"title": "book",
+					"type": "object",
+					"properties": {
+						"book_id": {
+							"type": "string",
+							"title": "book_id",
+							"format": "uuid"
+						}
+					},
+					"required": ["book_id"]
+				}
+			},
+			"check": {},
+			"identity": {},
+			"protect": {},
+			"return-book": {}
+		}
+	},
+	"security": [{
+		"bearerAuth": []
+	}]
+}
