@@ -219,7 +219,9 @@
 		"ipusdakapuashulu":"http://ipusdakapuashulu.moco.co.id/en/howto.html",
 		"itemanggung":"http://itemanggung.moco.co.id/en/howto.html",
 		"balitbangkesdigitallibrary":"http://balitbangkesdigitallibrary.moco.co.id/en/howto.html",
-		"epusdagunungsitoli":"http://epusdagunungsitoli.moco.co.id/en/howto.html"
+		"epusdagunungsitoli":"http://epusdagunungsitoli.moco.co.id/en/howto.html",
+		"isumbawabarat":"http://isumbawabarat.moco.co.id/en/howto.html",
+		"aditya":"http://aditya.moco.co.id/en/howto.html"
 	},
 	"id":{
 		"irohul":"http://irohul.moco.co.id/en/howto.html",
@@ -441,6 +443,8 @@
 		"ipusdakapuashulu":"http://ipusdakapuashulu.moco.co.id/howto.html",
 		"itemanggung":"http://itemanggung.moco.co.id/howto.html",
 		"balitbangkesdigitallibrary":"http://balitbangkesdigitallibrary.moco.co.id/howto.html",
-		"epusdagunungsitoli":"http://epusdagunungsitoli.moco.co.id/howto.html"
+		"epusdagunungsitoli":"http://epusdagunungsitoli.moco.co.id/howto.html",
+		"isumbawabarat":"http://isumbawabarat.moco.co.id/howto.html",
+		"aditya":"http://aditya.moco.co.id/howto.html"
 	}
 }
