@@ -223,7 +223,9 @@
 		"epusdagunungsitoli":"http://epusdagunungsitoli.moco.co.id/en/faq.html",
 		"isumbawabarat":"http://isumbawabarat.moco.co.id/en/faq.html",
 		"aditya":"http://aditya.moco.co.id/en/faq.html",
-		"ibatang":"http://ibatang.moco.co.id/en/faq.html"
+		"ibatang":"http://ibatang.moco.co.id/en/faq.html",
+		"epusdalutra":"http://epusdalutra.moco.co.id/en/faq.html",
+		"ipusdalomboktengah":"http://ipusdalomboktengah.moco.co.id/en/faq.html"
 	},
 	"id":{
 		"irohul":"http://irohul.moco.co.id/faq.html",
@@ -448,6 +450,8 @@
 		"epusdagunungsitoli":"http://epusdagunungsitoli.moco.co.id/faq.html",
 		"isumbawabarat":"http://isumbawabarat.moco.co.id/faq.html",
 		"aditya":"http://aditya.moco.co.id/faq.html",
-		"ibatang":"http://ibatang.moco.co.id/faq.html"
+		"ibatang":"http://ibatang.moco.co.id/faq.html",
+		"epusdalutra":"http://epusdalutra.moco.co.id/faq.html",
+		"ipusdalomboktengah":"http://ipusdalomboktengah.moco.co.id/faq.html"
 	}
 }
