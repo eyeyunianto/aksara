@@ -85,7 +85,7 @@
 		"idumai":"http://idumai.moco.co.id/en/howto.html",
 		"iwaykanan":"http://iwaykanan.moco.co.id/en/howto.html",
 		"ilotim":"http://ilotim.moco.co.id/en/howto.html",
-		"igowa":"http://igowa.moco.co.id/en/howto.html",
+		"igowa":"http://igowa.moco.co.id/howto",
 		"isolokkab":"http://isolokkab.moco.co.id/en/howto.html",
 		"ihumbang":"http://ihumbang.moco.co.id/en/howto.html",
 		"idairi":"http://idairi.moco.co.id/en/howto.html",
@@ -107,7 +107,7 @@
 		"ijambikota":"http://ijambikota.moco.co.id/en/howto.html",
 		"ilampung":"http://ilampung.moco.co.id/en/howto.html",
 		"imeulaboh":"http://imeulaboh.moco.co.id/en/howto.html",
-		"isingkawanghebat":"http://isingkawanghebat.moco.co.id/en/howto.html",
+		"isingkawanghebat":"http://isingkawanghebat.moco.co.id/howto",
 		"mkdigitallibrary":"http://mkdigitallibrary.moco.co.id/en/howto.html",
 		"ipekalongankab":"http://ipekalongankab.moco.co.id/en/howto.html",
 		"ijabar":"http://ijabar.moco.co.id/en/howto.html",
@@ -221,7 +221,7 @@
 		"balitbangkesdigitallibrary":"http://balitbangkesdigitallibrary.moco.co.id/en/howto.html",
 		"epusdagunungsitoli":"http://epusdagunungsitoli.moco.co.id/en/howto.html",
 		"isumbawabarat":"http://isumbawabarat.moco.co.id/en/howto.html",
-		"aditya":"http://aditya.moco.co.id/en/howto.html",
+		"aditya":"http://aditya.moco.co.id/howto",
 		"ibatang":"http://ibatang.moco.co.id/en/howto.html",
 		"eperpuslutra":"http://eperpuslutra.moco.co.id/en/howto.html",
 		"ipusdalomboktengah":"http://ipusdalomboktengah.moco.co.id/en/howto.html",
@@ -231,7 +231,12 @@
 		"elibrarypembelajar":"http://elibrarypembelajar.moco.co.id/en/howto.html",
 		"elibraryyk":"http://elibraryyk.moco.co.id/en/howto.html",
 		"ikubar":"http://ikubar.moco.co.id/en/howto.html",
+<<<<<<< HEAD
 		"epustakajaya":"http://epustakajaya.moco.co.id/en/howto.html"
+=======
+		"wapreslibrary":"https://wapres.moco.co.id/howto.html",
+		"epustakajaya":"https://epustakajaya.moco.co.id/howto"
+>>>>>>> 0f786cf3d802f8e18aadeaf48f782f8249a8c2b2
 	},
 	"id":{
 		"irohul":"http://irohul.moco.co.id/en/howto.html",
@@ -318,8 +323,8 @@
 		"isungaipenuh":"http://isungaipenuh.moco.co.id/howto.html",
 		"idumai":"http://idumai.moco.co.id/howto.html",
 		"iwaykanan":"http://iwaykanan.moco.co.id/howto.html",
-		"ilotim":"http://ilotim.moco.co.id/howto.html",
-		"igowa":"http://igowa.moco.co.id/howto.html",
+		"ilotim":"http://ilotim.moco.co.id/howto",
+		"igowa":"http://igowa.moco.co.id/howto",
 		"isolokkab":"http://isolokkab.moco.co.id/howto.html",
 		"ihumbang":"http://ihumbang.moco.co.id/howto.html",
 		"idairi":"http://idairi.moco.co.id/howto.html",
@@ -341,7 +346,7 @@
 		"ijambikota":"http://ijambikota.moco.co.id/howto.html",
 		"ilampung":"http://ilampung.moco.co.id/howto.html",
 		"imeulaboh":"http://imeulaboh.moco.co.id/howto.html",
-		"isingkawanghebat":"http://isingkawanghebat.moco.co.id/howto.html",
+		"isingkawanghebat":"http://isingkawanghebat.moco.co.id/howto",
 		"mkdigitallibrary":"http://mkdigitallibrary.moco.co.id/howto.html",
 		"ipekalongankab":"http://ipekalongankab.moco.co.id/howto.html",
 		"ijabar":"http://ijabar.moco.co.id/howto.html",
@@ -455,7 +460,7 @@
 		"balitbangkesdigitallibrary":"http://balitbangkesdigitallibrary.moco.co.id/howto.html",
 		"epusdagunungsitoli":"http://epusdagunungsitoli.moco.co.id/howto.html",
 		"isumbawabarat":"http://isumbawabarat.moco.co.id/howto.html",
-		"aditya":"http://aditya.moco.co.id/howto.html",
+		"aditya":"http://aditya.moco.co.id/howto",
 		"ibatang":"http://ibatang.moco.co.id/howto.html",
 		"eperpuslutra":"http://eperpuslutra.moco.co.id/howto.html",
 		"ipusdalomboktengah":"http://ipusdalomboktengah.moco.co.id/howto.html",
@@ -465,6 +470,7 @@
 		"elibrarypembelajar":"http://elibrarypembelajar.moco.co.id/howto.html",
 		"elibraryyk":"http://elibraryyk.moco.co.id/howto.html",
 		"ikubar":"http://ikubar.moco.co.id/howto.html",
-		"epustakajaya":"http://epustakajaya.moco.co.id/howto.html"
+		"wapreslibrary":"https://wapres.moco.co.id/howto.html",
+		"epustakajaya":"https://epustakajaya.moco.co.id/howto"
 	}
 }
